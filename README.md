@@ -4,4 +4,4 @@ from soonTM import AIdvanceWars
 hatchi = AIdvanceWars(difficulty='max')
 next_move = hatchi.predict()
 ```
-![Image](https://raw.githubusercontent.com/Hatchi-Kin/Hatchi-Kin/main/aw5.png)
+![Image](https://raw.githubusercontent.com/Hatchi-Kin/Hatchi-Kin/main/aw4(1).png)

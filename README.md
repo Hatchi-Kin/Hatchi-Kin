@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on ml projects on sound.
 - ⚡ One day I'll code a competitive AI for AdvanceWars2 !
 
-![Image](https://raw.githubusercontent.com/Hatchi-Kin/Hatchi-Kin/main/aw3.png)
+![Image](https://raw.githubusercontent.com/Hatchi-Kin/Hatchi-Kin/main/aw4.png)
